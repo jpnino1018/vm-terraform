@@ -1,4 +1,4 @@
-###Run Virtual Machine
+**Run Virtual Machine**
 
 - Run `terraform init`
 - Validate main scheme using `terraform validate`
